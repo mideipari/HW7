@@ -89,6 +89,6 @@ Speed: 0.018s
 I tried a few different inline assembly methods but they were all slower than the naive result, it seems I am worse at assembly than the compiler. 
 
 After that I couldn't think of anyways to improve the speed so I started googling.
-I found this page which maybe of some [interest]("<https://github.com/miloyip/itoa-benchmark>"). There are many different ways to beat the naive method it seems but I did not want to just copy one. 
+I found this page which maybe of some [interest]("https://github.com/miloyip/itoa-benchmark"). There are many different ways to beat the naive method it seems but I did not want to just copy one. 
 
 
